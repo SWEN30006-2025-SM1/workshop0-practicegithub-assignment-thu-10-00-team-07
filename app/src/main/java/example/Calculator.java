@@ -20,4 +20,5 @@ public class Calculator {
         // TODO: Implement this method
         return (float)a/b;
     }
+
 }
